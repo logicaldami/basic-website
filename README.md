@@ -9,7 +9,7 @@ https://engrshege.github.io/basic-website/
 
 Picture Preview:
 
-![startup](./img/startup-live-preview.png)
+![startup](./img/preview.png)
 
 
 
