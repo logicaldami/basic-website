@@ -5,7 +5,7 @@ Basic Website is a project that showcases how a basic website is built; it is st
 ## Deployment
 
 Live Demo Link: 
-https://engrshege.github.io/startup-landing-page/
+https://engrshege.github.io/basic-website/
 
 Picture Preview:
 
